@@ -1,0 +1,59 @@
+body{
+    background-image: url('back1.jpg');
+    background-size: cover;
+    color: white !important;
+    
+    
+}
+.value{
+    display: flex;
+}
+h1{
+    text-shadow: 2px 4px 10px black;
+    color: white;
+    margin-top: 100px;
+    text-align: center;
+    font-weight: bolder;
+}
+.ans{
+    width: 100%;
+    background-color: WHITE;
+    color: black;
+    margin-left: 2%;
+    height: 50px;
+    font-size: 30px;
+    font-weight: bolder !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important; 
+    
+}
+
+.buttons{ 
+    
+    display: flex;  
+    width: 100px ; 
+    margin: 5% 30%;
+}
+.btn{
+    width: 100px;
+    padding: 2% ;
+    margin-left: 10px;
+    text-shadow: 2px 4px 10px black !important;
+    box-shadow: 2px 2px 10px 2px black;
+}
+    
+}
+
+.btn-dark{
+    width: 180px;
+}
+.func{
+    
+    padding: 5%;
+}
+.container{
+    border: 5px solid WHITE;
+    margin-right: 30%;
+    margin-left: 30%;
+    text-align: center;
+    margin-top: 20%;
+}
